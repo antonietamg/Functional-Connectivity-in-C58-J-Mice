@@ -1,0 +1,7 @@
+sub-1_ses-1_bold
+sub-2_ses-1_bold
+sub-3_ses-1_bold
+sub-5_ses-1_bold
+sub-6_ses-1_bold
+sub-7_ses-1_bold
+sub-8_ses-1_bold
